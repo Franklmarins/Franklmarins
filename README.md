@@ -21,8 +21,8 @@ seja bem vindo ao meu github!
   <img align="center" alt="javascript" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">  
 </div><br/>
 
-## Email para contato: franklmarins@gmail.com
-
 Sinta-se à vontade para dar uma olhada no meu portifólio. Tem alguns dos projetos em que trabalhei e que estão aqui no github. Obrigado por visitar meu perfil!
 
 ## [Portifólio](https://portfolio-franklmarins.vercel.app/)
+
+Email: franklmarins@gmail.com
